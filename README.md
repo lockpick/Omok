@@ -9,7 +9,7 @@ Build Requirements
 Runtime Requirements
 ------------------
  * Windows 7+ for Win games
- * 
+ 
 Contact me
 ------------------
  * Email : han9551@gmail.com
